@@ -1,0 +1,192 @@
+@media (max-width:1300px) {}
+
+
+
+@media (max-width:1124px) {
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .menu {
+        width: 100%;
+
+    }
+
+    .menu ul {
+        text-align: center;
+    }
+
+
+
+    .banner {
+        padding: 110px 0px;
+
+    }
+
+    .banner h1 {
+        font-size: 35px;
+    }
+
+
+    .service_Container {
+        margin: auto;
+        margin-top: 100px;
+
+    }
+
+
+    .service_Container .card {
+        width: 44%;
+        float: left;
+        margin: 20px;
+      
+    }
+
+
+    .service_Container .card p {
+        max-width: 93%;
+    }
+
+
+    .About_left {
+        width: 100%;
+        float: none;
+
+    }
+
+    .About_right {
+        width: 100%;
+        float: none;
+        margin-top: 30px;
+    }
+
+    .About_right p {
+        text-align: justify;
+    }
+
+    .contact_Container {
+        width: 90%;
+
+    }
+
+
+
+}
+
+
+
+@media (max-width:789px) {
+    .menu ul li a {
+        font-size: 16px;
+        line-height: 50px;
+        padding: 0px 13px;
+
+    }
+
+    .logo h1 {
+        line-height: 70px;
+        color: white;
+    }
+}
+
+
+@media (max-width:699px) {
+
+
+    .service_Container {
+        margin: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .contactUs_Section {
+        padding: 27px 0px;
+    }
+
+    .service_Container .card {
+        width: 73%;
+        float: none;
+        margin: 20px auto;
+        display: inline-block;
+    }
+
+    .contact_Container {
+        width: 100%;
+        margin: 20px 0px;
+    }
+
+
+    .card2 {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .lastCard2 {
+        float: none !important;
+
+    }
+
+    .footer_Menu ul li a {
+        padding: 0px 13px;
+    }
+
+    
+}
+
+
+
+@media (max-width:424px) {
+    .banner h1 {
+        font-size: 26px;
+    }
+
+    .banner {
+        padding: 68px 0px;
+    }
+
+    .banner p {
+        font-size: 16px;
+
+    }
+
+    .banner a {
+        font-size: 14px;
+        padding: 8px 15px;
+
+    }
+
+
+    .section_Sub {
+        max-width: 90%;
+        margin: auto;
+    }
+
+
+    .aboutUs_Section {
+        padding: 35px 25px;
+    }
+
+    .service_section {
+        padding: 30px 0px;
+
+    }
+
+    .contactUs_Section {
+        padding: 30px 0px;
+
+    }
+
+    .footer_Menu ul li a {
+        padding: 0px 6px;
+        font-size: 22px;
+    }
+
+    footer p{
+        max-width: 99% !important;
+        margin: auto;
+        font-size: 14px !important;
+    }
+
+   
+}
